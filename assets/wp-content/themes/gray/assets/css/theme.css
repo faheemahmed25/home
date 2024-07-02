@@ -1088,6 +1088,21 @@ button.mfp-close:hover {
         margin-top: 15px;
         margin-left: 30px;
     }
+    .button-outline {
+        width: 130px;
+        font-size: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .button i {
+        margin-right: 6px;
+        margin-left: 6px;
+        font-size: 10px;
+    }
+    .button-sm {
+        padding: 10px 10px;
+    }
 }
 .mfp-bottom-bar {
     margin-top: -30px;

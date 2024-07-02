@@ -219,7 +219,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
       font-family: "Roboto Mono", monospace;
       -webkit-transition: ease-out 0.12s;
       transition: ease-out 0.12s;
-      width: 20%;
+      width: 100%;
       margin-bottom: 0px;
       border: none;
   }
